@@ -15,5 +15,6 @@ public class MainActivity extends AppCompatActivity {
         WebView web = (WebView) findViewById(R.id.web_view);
         web.loadUrl("http://www.Rodja TV.com/");
         web.setWebViewClient(new WebViewClient());
+        //numpang mang
     }
 }
